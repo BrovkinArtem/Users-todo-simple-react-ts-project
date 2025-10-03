@@ -1,0 +1,2 @@
+# Users-todo-simple-react-ts-project
+Простой проект на React + TS, для освоения типизации при работе с реактом: пропсы, types, эвенты, состояния, переиспользуемые компоненты и react router dom
